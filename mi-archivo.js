@@ -1,3 +1,3 @@
-Alert(“Hola mundo”)
-Commit changes
+Alert(“Hola mundo editado”)
+Console.log (“cambios en el archivo”);  
 
